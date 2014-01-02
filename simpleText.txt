@@ -2,3 +2,4 @@ MS-DOS and Windows use a common text file format, with each line of text separat
 Most Windows text files use a form of ANSI, OEM or Unicode encoding. What Windows terminology calls "ANSI encodings" are usually single-byte ISO-8859 encodings, except for in locales such as Chinese, Japanese and Korean that require double-byte character sets. ANSI encodings were traditionally used as default system locales within Windows, before the transition to Unicode. By contrast, OEM encodings, also known as MS-DOS code pages, were defined by IBM for use in the original IBM PC text mode display system. They typically include graphical and line-drawing characters common in (possibly full-screen) MS-DOS applications. Newer Windows text files may use a Unicode encoding such as UTF-16LE or UTF-8, with Byte Order Mark. 
 
 This text file is used for testing on remote GITHub, checking again!!
+checking again!!
